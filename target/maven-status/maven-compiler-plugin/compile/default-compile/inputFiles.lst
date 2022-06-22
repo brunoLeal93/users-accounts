@@ -1,0 +1,15 @@
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\model\AccountModel.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\model\dto\UserDto.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\model\dto\PlainUserDto.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\model\dto\AccountDto.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\UsersAccountsApplication.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\model\exception\AccountNotFoundException.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\repository\UserRepository.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\model\exception\AccountIsInUseException.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\model\exception\UserNotFoundException.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\controller\AccountController.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\model\UserModel.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\service\AccountService.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\repository\AccountRepository.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\service\UserService.java
+C:\Users\u6081428\Projects\users-accounts\src\main\java\com\exercise5\usersaccounts\controller\UserController.java
